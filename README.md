@@ -19,4 +19,4 @@ Son güncelleme: <em><i> 2023-11-22 21:44:00 </i></em>
 
 ###
 > - Çalışabilirlik garantisi yoktur.
-> - Veriler olduğu gibi sunulur ve hiçbir düzenleme yapılmaz
+> - Veriler olduğu gibi sunulur ve (Tekrar eden IP adreslerini temizlemekten başka) hiçbir düzenleme yapılmaz.
