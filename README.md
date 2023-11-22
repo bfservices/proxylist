@@ -8,14 +8,13 @@
 
 ###
 
-<h4 align="center">Bu proje, yaklaşık 10.000 farklı siteden her 2 saate bir veri çekip yayınlamayı amaçlamaktadır.</h4>
+<h4 align="center">Bu proje, yaklaşık `10.000` farklı siteden her `2` saate bir veri çekip yayınlamayı amaçlamaktadır.</h4>
 
 ###
-> [!Note]
 > - Çalışabilirlik garantisi yoktur.<br>- Veriler olduğu gibi sunulur ve hiçbir düzenleme yapılmaz
 
 <br clear="both">
 
-<h6 align="left">Son proxy adeti: 2323<br>Son güncelleme: 32.32.32.3</h6>
+<h6 align="left">Son proxy adeti: `2323`<br>Son güncelleme: `32.32.32.3`</h6>
 
 ###
