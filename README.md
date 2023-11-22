@@ -11,7 +11,7 @@
 <h4 align="center">Bu proje, yaklaşık `10.000` farklı siteden her `2` saate bir veri çekip yayınlamayı amaçlamaktadır.</h4>
 
 ###
-> - Çalışabilirlik garantisi yoktur.<br>- Veriler olduğu gibi sunulur ve hiçbir düzenleme yapılmaz
+> - Çalışabilirlik garantisi yoktur.<br> - Veriler olduğu gibi sunulur ve hiçbir düzenleme yapılmaz
 
 <br clear="both">
 
