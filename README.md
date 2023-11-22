@@ -17,8 +17,8 @@
 <br clear="both">
 
 ###
-> Son proxy adeti: <p>X<sup>223232</sup></p> 
-> Son güncelleme: <p>X<sup>2.31.31.31</sup></p> 
+> <p>Son proxy adeti:<sup>223232</sup></p> 
+> <p>Son güncelleme:<sup>2.31.31.31</sup></p> 
 
 
 ###
