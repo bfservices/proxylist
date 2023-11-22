@@ -16,6 +16,9 @@
 
 <br clear="both">
 
-<h6 align="left">Son proxy adeti: `2323`<br>Son güncelleme: `32.32.32.3`</h6>
+###
+> Son proxy adeti: <p>X<sup>223232</sup></p> 
+> Son güncelleme: <p>X<sup>2.31.31.31</sup></p> 
+
 
 ###
