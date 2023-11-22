@@ -4,10 +4,20 @@
 
 ###
 
-<h1 align="center">Merhaba 👋</h1>
+<h1 align="center">BFProxyList</h1>
 
 ###
 
-<p align="center">Bu proje, yaklaşık 10.000 farklı siteden her 3 saate bir veri çekip yayınlamayı amaçlamaktadır.<br><br>Güncelleme:</p>
+<h4 align="center">Bu proje, yaklaşık 10.000 farklı siteden her 2 saate bir veri çekip yayınlamayı amaçlamaktadır.</h4>
+
+###
+
+<h6 align="center">- Çalışabilirlik garantisi yoktur.<br>- Veriler olduğu gibi sunulur ve hiçbir düzenleme yapılmaz</h6>
+
+###
+
+<br clear="both">
+
+<h6 align="left">Son proxy adeti: 2323<br>Son güncelleme: 32.32.32.3</h6>
 
 ###
