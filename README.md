@@ -12,7 +12,7 @@
 <br clear="both">
 
 Son proxy adeti: <em><i> 8,559,098 </i></em>
-Son güncelleme: <em><i> 2023-11-24 00:37:23 </i></em>
+Son güncelleme: <em><i> 2023-11-24 00:39:07 </i></em>
 
 ###
 
