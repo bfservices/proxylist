@@ -11,13 +11,26 @@
 <h4 align="center">Bu proje, yaklaşık `10.000+` farklı linkten her 2 saate bir veri çekip yayınlamayı amaçlamaktadır.</h4>
 <br clear="both">
 
-Son proxy adeti: <em><i> 7,289,066 </i></em>
-Son güncelleme: <em><i> 2023-11-25 14:01:39 </i></em>
+Son proxy adeti: <em><i> 7,289,911 </i></em>
+Son güncelleme: <em><i> 2023-11-25 12:02:02 </i></em>
 
 ###
 
+## IP Veritabanını test et
+
+Aşağıda sağlanan linklerden paylaşılan proxy iplerinden beslenen veritabanını test edebilirsiniz.
+
+| İşlev | Link |
+| ------ | ------ |
+| Kapsamlı Bilgi | [https://api.bfsistem.com/proxy/20.206.106.192] |
+| Proxy - Konum - ASN | [https://api.bfsistem.com/dproxy/20.206.106.192] |
+| Proxy - Konum | [https://api.bfsistem.com/cproxy/20.206.106.192] |
+| Konum + ASN | [https://api.bfsistem.com/casn/20.206.106.192] |
+| Konum | [https://api.bfsistem.com/ulke/20.206.106.192] |
+| Asn | [https://api.bfsistem.com/asn/20.206.106.192] |
 
 ###
+
 > - Çalışabilirlik garantisi yoktur.
 > - Veriler olduğu gibi sunulur ve hiçbir düzenleme yapılmaz.
 > - Sadece savunma amaçlıdır, port içermez.
