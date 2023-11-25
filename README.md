@@ -22,12 +22,12 @@ Aşağıda sağlanan linklerden paylaşılan proxy iplerinden beslenen veritaban
 
 | İşlev | Link |
 | ------ | ------ |
-| Kapsamlı Bilgi | [https://api.bfsistem.com/proxy/20.206.106.192] |
-| Proxy - Konum - ASN | [https://api.bfsistem.com/dproxy/20.206.106.192] |
-| Proxy - Konum | [https://api.bfsistem.com/cproxy/20.206.106.192] |
-| Konum + ASN | [https://api.bfsistem.com/casn/20.206.106.192] |
-| Konum | [https://api.bfsistem.com/ulke/20.206.106.192] |
-| Asn | [https://api.bfsistem.com/asn/20.206.106.192] |
+| Kapsamlı Bilgi | https://api.bfsistem.com/proxy/20.206.106.192 |
+| Proxy - Konum - ASN | https://api.bfsistem.com/dproxy/20.206.106.192 |
+| Proxy - Konum | https://api.bfsistem.com/cproxy/20.206.106.192 |
+| Konum + ASN | https://api.bfsistem.com/casn/20.206.106.192 |
+| Konum | https://api.bfsistem.com/ulke/20.206.106.192 |
+| Asn | https://api.bfsistem.com/asn/20.206.106.192 |
 
 ###
 
