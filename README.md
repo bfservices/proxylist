@@ -11,8 +11,8 @@
 <h4 align="center">Bu proje, birçok linkten her 5 saate bir veri çekip yayınlamayı amaçlamaktadır.</h4>
 <br clear="both">
 
-Son proxy adeti: <em><i> 7,714,337 </i></em>
-Son güncelleme: <em><i> 2024-01-07 20:20:41 </i></em>
+Son proxy adeti: <em><i> 7,709,139 </i></em>
+Son güncelleme: <em><i> 2024-01-08 00:05:33 </i></em>
 
 ###
 
